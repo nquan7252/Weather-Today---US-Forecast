@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather Today</string>
+    <string name="websitelink">
+        <a href="https://miwa.sbs/">Visit my website</a>
+    </string>
+    <string name="instalink">
+        <a href="https://www.instagram.com/_mquannn_/">Visit my Instagram</a>
+    </string>
+    <string name="facebooklink">
+        <a href="https://www.facebook.com/mquannhatnheo/">Visit my  Facebook</a>
+    </string>
+</resources>
